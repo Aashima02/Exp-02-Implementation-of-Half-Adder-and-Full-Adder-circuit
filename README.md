@@ -98,4 +98,4 @@ endmodule
 <br>
 
 ## RESULT:
-To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
