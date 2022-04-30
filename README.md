@@ -76,7 +76,8 @@ endmodule
 <br>
 
 ### Timing Diagram:
-![output](./htiming.png)
+![2](https://user-images.githubusercontent.com/93427086/166093437-857933fe-2543-4700-a612-970e46cf99e5.jpeg)
+
 <br>
 
 
@@ -94,7 +95,8 @@ endmodule
 <br>
 
 ### Timing Diagram:
-![output](./ftiming.png)
+![1](https://user-images.githubusercontent.com/93427086/166093442-dac48f98-dab9-46e9-974e-9a879a24f14f.jpeg)
+
 <br>
 
 ## RESULT:
